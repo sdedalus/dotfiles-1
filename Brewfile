@@ -15,6 +15,7 @@ brew 'unrar'
 brew 'wget'
 brew 'yarn'
 
+cask 'dropbox'
 cask 'firefox'
 cask 'google-chrome'
 cask 'slack'
