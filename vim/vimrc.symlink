@@ -123,3 +123,8 @@ let mapleader = ","
 nmap ; :buffers<CR>
 nmap <Leader>t :files<CR>
 nmap <Leader>r :tags<CR>
+
+" https://twitter.com/vimrclines/status/933244408568467456
+" Preserve visual selection when indenting and outdenting
+vnoremap > >gv
+vnoremap < <gv
