@@ -120,7 +120,7 @@ cnoremap <expr> %% getcmdtype() == ':' ? expand('%:h').'/' : '%%'
 
 " Fuzzy Finding (fzf) stuff
 let mapleader = ","
-nmap ; :buffers<CR>
+nmap <Leader>; :buffers<CR>
 nmap <Leader>t :files<CR>
 nmap <Leader>r :tags<CR>
 
