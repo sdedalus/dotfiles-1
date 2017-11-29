@@ -17,6 +17,7 @@ brew 'yarn'
 
 cask 'firefox'
 cask 'google-chrome'
+cask 'lastpass'
 cask 'hammerspoon'
 cask 'slack'
 cask 'visual-studio-code'
