@@ -15,6 +15,7 @@ brew 'unrar'
 brew 'wget'
 brew 'yarn'
 
+cask 'iTerm2'
 cask 'firefox'
 cask 'google-chrome'
 cask 'lastpass'
