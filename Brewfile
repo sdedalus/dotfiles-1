@@ -26,3 +26,5 @@ cask 'vlc'
 cask 'spotify'
 
 cask 'parallels'
+cask 'docker'
+
