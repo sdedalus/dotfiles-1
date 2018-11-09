@@ -24,6 +24,7 @@ cask 'slack'
 cask 'visual-studio-code'
 cask 'vlc'
 cask 'spotify'
+cask 'keybase'
 
 cask 'parallels'
 cask 'docker'
