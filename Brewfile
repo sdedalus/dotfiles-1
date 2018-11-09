@@ -25,6 +25,7 @@ cask 'visual-studio-code'
 cask 'vlc'
 cask 'spotify'
 cask 'keybase'
+cask 'gpg-suite'
 
 cask 'parallels'
 cask 'docker'
