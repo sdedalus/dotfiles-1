@@ -14,6 +14,8 @@ brew 'todo-txt'
 brew 'unrar'
 brew 'wget'
 brew 'yarn'
+brew 'kubernetes-cli'
+brew 'kops'
 
 cask 'iTerm2'
 cask 'firefox'
