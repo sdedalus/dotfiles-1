@@ -16,6 +16,7 @@ brew 'wget'
 brew 'yarn'
 brew 'kubernetes-cli'
 brew 'kops'
+brew 'awscli'
 
 cask 'iTerm2'
 cask 'firefox'
