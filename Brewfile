@@ -31,4 +31,5 @@ cask 'gpg-suite'
 
 cask 'parallels'
 cask 'docker'
+cask 'virtualbox'
 cask 'minikube'
