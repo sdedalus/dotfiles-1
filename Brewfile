@@ -34,3 +34,5 @@ cask 'docker'
 cask 'virtualbox'
 cask 'minikube'
 cask 'dotnet-sdk'
+cask 'postgres'
+
