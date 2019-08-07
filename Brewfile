@@ -18,6 +18,8 @@ brew 'kubernetes-cli'
 brew 'kops'
 brew 'awscli'
 brew 'git'
+brew 'telnet'
+brew 'kubernetes-cli'
 
 cask 'iTerm2'
 cask 'firefox'
