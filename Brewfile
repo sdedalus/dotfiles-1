@@ -19,7 +19,7 @@ brew 'kops'
 brew 'awscli'
 brew 'git'
 brew 'telnet'
-brew 'kubernetes-cli'
+brew 'lastpass-cli'
 
 cask 'iTerm2'
 cask 'firefox'
