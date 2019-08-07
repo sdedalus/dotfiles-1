@@ -17,6 +17,7 @@
 [core]
         excludesfile = ~/.gitignore
         editor = vim
+	autocrlf = input
 [apply]
         whitespace = nowarn
 [mergetool]
@@ -32,5 +33,5 @@
         # Setting to git 2.0 default to suppress warning message
         default = simple
 [user]
-	email = jason.dentler@vroom.com
+	email = jasondentler@gmail.com
 	name = Jason Dentler
