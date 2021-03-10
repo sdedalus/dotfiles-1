@@ -51,3 +51,9 @@ zle -N up-line-or-beginning-search
 zle -N down-line-or-beginning-search
 bindkey "^[[A" up-line-or-beginning-search # Up
 bindkey "^[[B" down-line-or-beginning-search # Down
+export RL_DOCKER_VOLS_ROOT=/Users/davidlewis/docker-volumes
+export RL_DEPENDENCY_USERNAME=dev
+export RL_DEPENDENCY_PASSWORD=3187
+export NPM_AUTH_TOKEN=2a6c1942-363b-434e-87cb-e13318c08823
+export GITHUB_TOKEN=2757263ee167065c0b1765380706df7c4a068d4e
+. $RL_DOCKER_VOLS_ROOT/deps/set-redline-env.sh

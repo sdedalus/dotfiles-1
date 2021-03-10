@@ -51,7 +51,7 @@ There's a few special files in the hierarchy.
 Run this:
 
 ```sh
-git clone https://github.com/jasondentler/dotfiles-1.git ~/.dotfiles
+git clone https://github.com/sdedalus/dotfiles-1.git ~/.dotfiles
 cd ~/.dotfiles
 script/bootstrap
 ```

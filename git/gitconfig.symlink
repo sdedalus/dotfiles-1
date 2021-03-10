@@ -33,5 +33,7 @@
         # Setting to git 2.0 default to suppress warning message
         default = simple
 [user]
-	email = jasondentler@gmail.com
-	name = Jason Dentler
+	email = dalewi2@gmail.com
+	name = David Lewis
+[merge]
+	tool = diffmerge
