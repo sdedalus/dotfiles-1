@@ -55,5 +55,14 @@ export RL_DOCKER_VOLS_ROOT=/Users/davidlewis/docker-volumes
 export RL_DEPENDENCY_USERNAME=dev
 export RL_DEPENDENCY_PASSWORD=3187
 export NPM_AUTH_TOKEN=2a6c1942-363b-434e-87cb-e13318c08823
-export GITHUB_TOKEN=2757263ee167065c0b1765380706df7c4a068d4e
+export GITHUB_TOKEN=5f4139c5f9c891da9888ff8f61c1e35761236476
 . $RL_DOCKER_VOLS_ROOT/deps/set-redline-env.sh
+export RL_DOCKER_VOLS_ROOT=/Users/davidlewis/docker-volumes
+export RL_DEPENDENCY_USERNAME=dev
+export RL_DEPENDENCY_PASSWORD=password
+. $RL_DOCKER_VOLS_ROOT/deps/set-redline-env.sh
+export RABBITMQ_USER=dev
+export RABBITMQ_PASSWORD=password
+
+autoload -U +X bashcompinit && bashcompinit
+complete -o nospace -C /usr/local/bin/terraform terraform

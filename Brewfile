@@ -20,6 +20,7 @@ brew 'awscli'
 brew 'git'
 brew 'telnet'
 brew 'lastpass-cli'
+brew 'postman'
 
 cask 'iTerm2'
 cask 'firefox'
